@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4343CCE1-8053-4864-BF82-C8C45C41097C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>OpenData.WebApi/OpenData.Link/OpenData.Link.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/diegomatiasperez/Documents/entrevistas/prueba_tecnica_net/prueba.tecnica/OpenData.WebApi/Controllers/OpenDataController.cs" relfile="OpenData.WebApi/Controllers/OpenDataController.cs" line="20" column="1" />
+    <Breakpoint file="/Users/diegomatiasperez/Documents/entrevistas/prueba_tecnica_net/prueba.tecnica/OpenData.Sync/OpenDataSyncService.cs" relfile="OpenData.Sync/OpenDataSyncService.cs" line="24" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenData.WebApi/Program.cs">
+    <Files>
+      <File FileName="OpenData.Persitence/ServiceRegistrationExtension.cs" />
+      <File FileName="OpenData.Persitence/Context/OpenDataContext.cs" />
+      <File FileName="OpenData.Sync/OpenDataSyncService.cs" />
+      <File FileName="OpenData.Persitence/Entities/PartMarket.cs" />
+      <File FileName="OpenData.WebApi/Program.cs" Line="28" Column="1" />
+      <File FileName="OpenData.WebApi/Controllers/OpenDataController.cs" />
+      <File FileName="OpenData.Link/ApiRest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="prueba.tecnica" expanded="True">
+            <Node name="Src" expanded="True">
+              <Node name="Application" expanded="True" />
+              <Node name="Domain" expanded="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="OpenData.Persistence" expanded="True" />
+                <Node name="OpenData.WebApi" expanded="True">
+                  <Node name="Program.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Src.Infrastructure.OpenData.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

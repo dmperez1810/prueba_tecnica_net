@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Port\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Port\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OpenData.Model\OpenData.Model.csproj" />
+    <ProjectReference Include="..\OpenData.Persitence\OpenData.Persistence.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
+  </ItemGroup>
+</Project>
